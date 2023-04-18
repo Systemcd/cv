@@ -5,4 +5,4 @@ technology which i use to create this project
 * SASS
 * js
 * git
-[title](https://systemcd.github.io/cv/)
+[Link to my site](https://systemcd.github.io/cv/)
