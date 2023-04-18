@@ -85,4 +85,48 @@
         }
     }
 
+
+}
+
+.design-skills {
+    .skill {
+
+        margin: 0 0 15px 0;
+
+        .skill-top {
+            display: flex;
+            justify-content: space-between;
+            margin: 0 0 10px 0;
+            align-items: center;
+
+            .name {
+                color: $primaryColor;
+                font-size: 14px;
+
+            }
+
+            .percent {
+                color: $personInfoAboutMe;
+                font-size: 14px;
+            }
+
+        }
+
+        .skill-bottom {
+            .progress {
+                height: 8px;
+                border-radius: 4px;
+                background-color: $progressBarBgColor;
+
+                .bar {
+                    display: block;
+                    height: 100%;
+                    background-color: $progressBarColor;
+                    border-radius: 4px;
+
+                }
+            }
+
+        }
+    }
 }
