@@ -1,0 +1,21 @@
+$mainFont: 'Poppins',
+'sans-serif';
+
+$HeaderBGColor: rgba(86, 184, 135, .06);
+$headerPhotoBorderColor: #fff;
+$headerTextColor: #fff;
+$defaultSectionBGColor: #fff;
+$personInfoAboutMe: #9baab3;
+$primaryColor: #000;
+$secondaryColor: #555;
+
+$facebookColor: $headerTextColor;
+$twitterColor: $headerTextColor;
+$linkedInColor: $headerTextColor;
+$hoverSocialBTNColor: hsla(0, 0%, 0%, 0.103);
+
+
+$socialMedia : ('facebook' : $facebookColor,
+    'twitter' : $twitterColor,
+    'linkedin' : $linkedInColor,
+);
